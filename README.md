@@ -1,5 +1,67 @@
-- 👋 Hi, I’m Mira
-- 👀 I’m interested in frontend development, cybersecurity, and data science 
-- 🌱 I’m currently learning C++, while improving my JavaScript skills and relevant frameworks
-- 🪐 7468697320697320746865207965617220746865792077696c6c207365652077686f204920616d
-
+^^^^^^^~~~~~~~~~~~~~!!777J5PPPGBBPJ??JYYJJ?77!!!!!!!!!!!!77??JJY5PPGBG5YYYJ7~~~~~~~~^~~~~~~~~^^~^^::
+^^^^^^^!~!!!!~!!7J5PP57775GGGGG55Y???YG####BPYYPGGBBGPYYJYYYYYYY55PGGGGPYY5P5JJ?7!~~~~~~~~~~!~~^^^^^
+^^^^^^~!~!!!!7YB##BGYJ?YY5555YYYJYYYYJ?7??JJJJJJJJJY55P555YJJ?????JJJJY5PPJGPYYY55Y7!!!!!!!!!~~^^^:^
+^^^^^^~!~~?JJJGGP55Y5GB#&&&&&##BB&&##BBGYJ#&##BGP55PBGYYYYYY??77?JYY55555GPPYJJJJY5J!~~~~~~~~:::::::
+~^^^^^~!7GBPP5PY5PB#&#BGP5YYYJJYY55PYJJJJJY55YYJJJ??77!!!!!77??YJJJJJJJYYYJ??????7~^^^^~^~~~~:::::^:
+~~^^~~7PBBGPPGPPPB#G?!!~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~!?JJYJ?777!~~~~^^^^^^^^^^^^~~^:::::::
+~~~^~JG##PPGPPG#&#Y~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^~^~^^^^^^^^^^^^^^^^^:::::::
+^~~7P##BGGGGGBB#B7~~~~~~~~~~~~~~^^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^~^^^^^^^^^^^^^^^~^^^:::::::
+~~!GB#&&&#BB#B##Y!~~~^~~~~~~~~~~!77?JJ????7!7?J?JYJJJJJ?777!!~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^:::::::
+~^YB#&&##BBG5G#P7~~~~~~~~~!7YPGBBBB#######&#&&####BBBBBBGBBBG5JJ77~~~~~~~~~~~^^^^^^^^^~^^^^^^:::::::
+^^?B###GGPY?7##J~~~~~~!?YGB#&&&##&&&&&&&&&&@@&&&#&##&&########BBBBPY?77!~~~~^^^~~~~~~^^^^^^^^:::::::
+^^^5BG#P55Y!P&Y~!~~7YG#&&&&&&&&&&&&&&&&&&&&&@&&&&&&&&&&##&&&&&##B#BBBBBGP?!~~~~~~~~~~^~~^~~~^:::::::
+^^^YPPGG55Y!YJ!!!YG#&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&#############BGJ7~~~~~~~~~~~~^^^:::::^::
+~^?BPG5GPPP~7!!7P&@&&&&&&&&&&&&&&&@&&&&&#&&&&&&&&&&&&&&&&&&#&&&&&###########B57~~~~~~~~^^^^^::::::::
+!?PB5BG5P5Y~777P&@@@@@@@@@@&&&@&&@&&&&&&&&&&###&#&&@@&&&&&&&&&&&&&&&&&##&#B####5!~~~~^~^^^^^::::::::
+?PB#Y#BPYY57!?P&@@@@@@@@@@@&@@@&&@&@@@&&###BGP5555PB&@@&&&&&&&&&&&&&&########&##B7~~~~~~~^~~^^^^^^^^
+5B#&Y##PY5PJ~?&@@@@@@@@@@@@@@@@@@&&@@&&&&##BBGPGB###&&&@@&&&&&&&&&&&&&###&&###&&&BJ~~~~~~~~~~^~^~~~^
+GB&&YP#PP#PG7!@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&#B#&&@&#&&&@@@@@@&&&&&&&&&&&##&&&&&&&&&5!~~~~~~~~~~~~~^^
+B#&&GJPGPBPGY~B@@@@@@@@@@@@@@@@@@@@@@&#B&B#&#P&&G##P&&&@@@@@&&&&&&&@@@&&&&&&&&&&&&&&Y~!~~~~~~~^^~~~^
+B#&&B5PP5PGGP?J@@@@@@@@@@@@@@@@@@@@@&&#BGGB&B5GGPPPPB&&@@@@@@@@@@@@&@@&&&&&&&&&&&&&&#Y~~~~~~~~~^~~~~
+##&&&YGP55555J!#@@@@@@@@@@@@@@@&#&&#&&BGGG#&BPGGG5Y5P#&B&#@@@@@@@@@@@&&@@@&@&&&&&&&&&&Y~~~~~~~~~~~~~
+##&&&YGBPY5P55?5@@@@@@@@@@@@&#B#&&J#&&####&&##BB##BBB#&5G#P#@@@@@@@@@@@@@@@&&&BP&PG#GBG~!~~~~~~~~~~~
+##&&@55&G5G5BBJJ@@@@@@@@@@&BG#&&@P5&B&&&&&&&#BBBB&&###B5J@&GP&@@@@@@@@@@@@@&P#BY#5GGJP5J~~~~~~~~~~~~
+&&&&@G5&B5BGPG5J&@@@@@@@@#5B&&##&BGB&&&&&&&&######&&&&B5#&&B#P&@@@@@@@@@&BB&BG&PGBP#5BYP77!!~~~~~~~~
+&&&##GY&#G5BGY5Y&@@@@@@@BJG&&#PG#&#PJJ#&&&&#GGB#&###&&&&#B&#PBP#@@@@@@@@&&BG#P##5&5BGG5PBBBG5J7~~~~~
+BJYPG55&&G5PP5PY&@@@@@@BJGG&&#5YG5J7J#@&&&&&&&&&&##&&@&#PPG##7GP#@@@@@@&&&&#GGBGG###B5Y5#BGBBBGPJ!~~
+~?JJG5G&#PBGGG5JB&@@@@&7###&&#555Y75&@&&&&&&&&&##B#&&&&&###J&P7G5&@@@@@&&&#B#BG55PB#BYYPBB#BGP5PGP7~
+J?~B&5B&#P&PB&JJ^~JPG@YJ&&#&&B5GGYP&@&&&&&&&&&###BB####&&#BP5J!P5G@@@&&&&PBBBB#BBGGBBBGG#GGGPJJJPBG7
+G7P#BP#&G5B#GPYP!~7?~P7J#BBG5PBGYP&B@&&&&&&&&&#BBBGBB###&B5GYJG7G5P#&&&&5##BGPGB##G5P#G5G&GBPJJJ5#G5
+###YP#&#PG5YYYYBGYBB7?!G&B#B5BG55&&GB@&&&&&&##BBGGPP5PGBBBPB#JB55G7??5&GG&&BPJPB#&BPPBGY5##B5JJYY#BP
+PGB5B&#PGGPGY75G####5?!P&BB#PBGYBB#BYB&&&&###BBGGP55JY7GB#BGGYPP?G?Y77PB###PYYGBB&#GPPGPP#BPYJYYP#BP
+7?5B&&GB&P7PJ7BB#&##G!?BBGGBPB5G@#B5?!B&&&###BGPP55J!!~P#BB##GPP5Y7G##&#B#BG5YGBB###BGBGP5Y?JBBB#BB?
+7?P&&BP##JJG?G#&&&&&G!JBG5P5BG5B&&BJ~^^5&&###GPP5YY~^:!&#GGP#GYJ557Y&&&&###BPJ7PB#YBBG5??JJ5B##BGPJ^
+7YB&BPPGBG5JY&&&&&&&5!GB5PPPGGY##B#G7~^^7#&##BP5Y?^^^^G&&#B55YB5?GGGP&&&&B##BP775#5PBP5PPGGBGGPP5!^^
+7P&BGGGGPGJ?7?B&&&&&7JPGPG#PBP5#Y!~!J7~^^~P#5GG?J!^^^P#&&#BGG5G#PP##?5BBPP#BG5YJ5#P5&#BGGP5Y5J5?^^^^
+JG#BBBG#GB577!!G&&&5!G#P5GBB#PB#5~!^^J~^^^!Y5GPY!J7?GBGBB#BGBBGPGBGGBBB55GGPPY?J5BYG#PPJYJPPGGBG^^^^
+JGB#B5####G77!!!Y&B7JPBPPPG#BG&&&BB#Y~^^~???JGY#7G5555^^~:5#BBBBPGPGBBBGBBBBBG5YYYP###BBB##BGGPBJ^^^
+JBB##J#&GB&57!!!!YYYB#PPBP##B&&&&&&#7^^~?5J!7Y5PP5PY?57^~^^G&&#BGBGGG#B#BBGBBPPY5B&&&&####BBGPPPG~~^
+?P##&5G&#BB&#P5PPPG&B5G#GG#GB&BPG#BJ^^~JGPPYJ5B#G5YPGYY?!~:^G&&######BB##BBPGYGB&&&&&&###BBBGPPPG7~^
+7YG#&#5PBBYPBB&###BGPB#GB#BB&&B^~?7~^^JGGGYJG5GP#BYY&BJ5Y7~7G#&&&&&#####B#BBB#&&&&&&&&###BB#BGPGG~~~
+7?YPG#GBBGP##P#GGPGPPPPB#B#&&&#J!7^^~!YB5!7~YBP5P#GJ#@55P?BG##&&&&&J7?JJJ?7?YBB#&&&&&&&######BBBJ~~~
+7??JY55B&###PPGGBBBPP#&#B&&&&PB57~^~77!G5~5PY5#P5G&J?#P5J~JG&&&&&&J~~~~~~^~Y#&B5?7JPGPGGPGGGGP5?~~~~
+777??J5PGGB#GGPGGB###BGB&&BPGYJJYJ?JBPY7GY5#GPJGB5P57?G5J^Y55B&&#J~!~~~~!5&&&##&&J~^~~^~~~~~~~~~~~~~
+77777??JY555GPBBBBGYJY5PYJ??Y5J?7GBYPY5JP#B57Y??JGP!GJPGP5555PP57~~~~^75&&&&&&#&&&&5!^~~~~~~~~~~~~~~
+777??77777??JJJJ???JJJYYJJ?J5GY~~JGP!~~~GPJ7~7GGG5PG?BBGGGBPY5J!!~~~7G&&&##########&#J~~~~~~~~~~~~~~
+7??7777777777??77??????JPGY~!5P~.:7J~..^7777!~5BG7!G#PB5G5B#Y!!!~!JB&&&#GPGB###&#&##B#BY~^~~~~~^~~^^
+777777777777777777???????YY~..!!. !!!.~J???7JY~B57~5BB#PPBJB#57!JYJGGPPPG&&#&&&&#&&&&#B#BY~^^~^^^^^^
+777?777777777777777777777?!~. :~:.:JJ.~~^!7:.7JJ^^7GG5##GBBB&&GB7~^^~?BG&&B#&&&#GBBPPGPBB##5!^^^^^^^
+????777777777777777777777??!^..!~..!!:..^?7::~?7^^5PP75&#BG&#B##J~^^^?JJ7#&@#YYJJPGB#&#GGPGBBY~^^^^^
+??????777777?????JYJJ55Y5GG5YJ?5577P5!::~?7::!7~^?5Y7?##5Y5GBG#PB^^:^!7!~^!GJJPG&#BBBJYYJPPPGB#5~^^^
+?J???????J5PPPGP55PPG#BBG5YYJJYYJPPG#BBB##BP5PGPPBGGGBGYJP5GBBPBB^?G&&&&&B!~!&&&BPGB##GBBBB##G5#&P!^
+?JJJJJJ5GB##PYYYY5YYJB#PY5Y555Y5J5YPB&&#P5PPPPPPG###P5YJPGB#BPG#!?@@@@@&&@P:^##BG5?JGBG&&&&&&@BY&&&G
+JJJYPPB&&##PYJ5JYJJP5#&#BBBPGG55Y55YG&&B55P5P5P5Y5&&55PGBB##BBP!^?@@@@@&#&P:5&BB5PG5Y5G#&&#&&#G#&@@@
+JYPP#BBBBB&5JJ55PGG###&###&####BB##&#BB#BBBBBGGPGP######B#GGY!~~~^75#&B#&&Y~~J5#BGB5??JG&&#&5B&&&&&&
+5BGB&###&##BBB######BBBBG5YBBG5GBGGB&#BBB#&&BB#&#BB##B5PY?7~~~~~~~~YPGB&Y?!!77?&&&GGGBYJ##&55&#&####
+#&#GBBBBG&#B#&BGGP5YJJ?7~:!Y!.^5Y~^?PJ7YGBYJBBG5&&&&&&B?77!77!!!!~P#5J5Y?~!?P##GYBBBG#@Y##@JG&#&&GB#
+B&YGGPGBG#G&BPYJJJJYJJ?~:~?^.:?!..~??^^Y5?~JG5!~5#&&&&&&&&G?7!!!7!#G775YY5GGG77YJ~5GPPG5PB&B5&&&@#B&
+#5PG5##B###PYYJJJJJ??JJ?J??7~!7:..77:.^?J^^JP7^!P5~5&@&&&&&#P55J77B#JJ5BGGGJ77!7B#55BB#BJ#GB55#&&#&&
+&YGPGGB#G#5JYYJJJY?JG?Y5??JJ??JJ777~::?7:.^??~:~5J~?G#&@&&&&&&&&BP5P5P#GPY777GPG&5J#B##&YGGBBPB&#&&#
+&5#YBB#&#BJYJJJJY??J5?Y5?5P7Y57?JJ?J?JJ?~~7?7::~?7^!YJ~5&&&&&&&&&&Y?!~777?J75GBGBB?BB#B#Y&BB#BB&&B5J
+&#G5PB#B&#YYJJ?YJ!7Y77!YJ??7JY75G!?PY7Y5YJ55J77YJ!^!J?~!JG&&##&&&G5?7?77?7~^~~^^~B#5PP55PGG&&B#B5Y55
+&&BBG#&B&@GJJJJ5?7JJ7!7Y7!~!??777!?5?YPG?5#?JGPYJJJJ?JY?YYYP&&#&#J?J5J?7~!!~^~~^~?###PYB##@@&GYJ5P55
+BBB##GPGGB&BYJYY77J77!JJ!~~~?7!~^^~!!?YYYPP?JPP?J5#7Y557G5P5?B&&B!~7PJ?7!!??7?!!7?&BYGGB&@#PYY55PPPP
+5P&BPBYG#BG#&B5?77?77!Y?!~~!J!~^^^~~!7JYPY!!777??Y5JJ5GJJY55?J5G&BY?Y?J7?7Y5?7!!7B#?G#B&#5JY55PPPPPP
+GPPBBB#P5#&#G#5?~7?!!!J7~~^!?!^::^~~77?Y57^^~!!7~~!7JJ7?Y??5J7Y?J#&G577~?JP?7!7?5&7B#BGYJYYY5PPPPPPP
+YPP5PPP#BBB##PY7~!7~~~?!^^^!?~^:::~!7!!JJ~^:^!7!~:^!7?7!?J!?Y7JJ7YJP#P??JBG5!^PGG#5#PJJYYY555PPPPPPP
+YYYPGPPPPB#BBP?!^!~^^~7~^^^!7^::::^!~^!?!^^::~!!~::^777!!?7!?7?J!JY??GBG#&#?!!7YB#PYJJJYYY55555PPPPP
