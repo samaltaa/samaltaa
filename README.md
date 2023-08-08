@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate frontend develope and computer vision enthusiast 🤖 with a love for exploring the fascinating world of image processing. When I'm not diving into lines of code, you can find me indulging in my linguistic interests, as I'm fluent in a variety of languages:
+I'm a passionate frontend developer and computer vision enthusiast 🤖 with a love for exploring the fascinating world of image processing. When I'm not diving into lines of code, you can find me indulging in my linguistic interests, as I'm fluent in a variety of languages:
 
 - Mandarin 🀄
 - Español 🌮
