@@ -15,7 +15,7 @@ This is a Python-based project that utilizes the OpenCV library, Haar Cascade al
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/samaltaa/face-detection-recording.git
+   git clone https://github.com/samaltaa/face-detection-security-cam.git
    ```
 
 2. Navigate to the project directory:
