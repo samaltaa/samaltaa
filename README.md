@@ -2,7 +2,7 @@
 
 
 
-The Face Detection and Recording System is a Python-based project that utilizes the OpenCV library, Haar Cascade algorithm, time, and datetime libraries to create a system capable of detecting faces in a video frame, recording when a face is detected, and automatically uploading the recorded video once the face is out of frame for a specified duration.
+This is a Python-based project that utilizes the OpenCV library, Haar Cascade algorithm, time, and datetime libraries to create a system capable of detecting faces in a video frame, recording when a face is detected, and automatically uploading the recorded video once the face is out of frame for a specified duration.
 
 ## Features
 
