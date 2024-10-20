@@ -13,8 +13,6 @@ I'm a passionate frontend developer and computer vision enthusiast 🤖 with a l
 
 ## 💻 Technologies I Love
 
-I thrive on bringing ideas to life through technology, and some of my favorites include:
-
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaltaa&layout=compact" />
 
