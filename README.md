@@ -37,6 +37,3 @@ I'm a passionate frontend developer and computer vision enthusiast 🤖 with a l
 
 
 
-## 🌟 What I Do
-
-By day, I'm a full-time student. By night, I immerse myself in the world of computer vision, tinkering with algorithms and feeding my curiosity with new challenges.
